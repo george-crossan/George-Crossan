@@ -16,7 +16,15 @@
   </a>
 </p>
 
-Click the logo to watch the trailer!
+Click here to watch the trailer for the game i'm developing!
 
-[<img src="" width="600" height="330"
+[<img src="https://github.com/george-crossan/George-Crossan/blob/main/sumo-strikers.png" width="600" height="330"
 />](https://youtu.be/03_p1_Hj9X0)
+
+<a href="https://github.com/george-crossan/convoychat">
+   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-crossan&layout=compact&langs_count=8&card_width=320" />
+ </a>
+ <a href="https://github.com/george-crossan/github-readme-stats">
+   <img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=george-crossan" />
+ </a>
+
