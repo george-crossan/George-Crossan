@@ -1,4 +1,4 @@
-### Hi there 👋 I'm George
+### Hi there [](https://github.com/george-crossan/George-Crossan/blob/main/wave.gif) I'm George
 
 <!--
 **george-crossan/George-Crossan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
