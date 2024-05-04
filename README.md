@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-georgecrossan9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgecrossan9@gmail.com)](mailto:georgecrossan9@gmail.com)
 
  ## About me:
- I'm an aspiring software engineer from Dublin, Ireland with a passion for Back-end and game development!
+ I'm an aspiring software engineer from Dublin with a passion for Back-end and game development!
 - 🕹️ I’m currently working on a party game called "Sumo Strikers", coming to Steam later this year!
 - 🌱 I’m currently learning full stack development with React
 - 🏢 I’m looking for a software development internship
