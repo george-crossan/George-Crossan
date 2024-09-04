@@ -5,7 +5,7 @@
 
  ## About me:
  I'm an aspiring software engineer from Dublin with a passion for Back-end and game development!
-- 🕹️ I’m currently working on a party game called "Sumo Strikers", coming to Steam later this year!
+- 🕹️ I’m currently working on a party game called "Sumo Strikers", coming to Steam hopefully next year!
 - 🌱 I’m currently learning full stack development with React
 - 🏢 I’m looking for a software internship
 - 👨‍💻 Technologies I use:
