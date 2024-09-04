@@ -24,9 +24,9 @@ Click here to watch the trailer for the game i'm developing!
 <a href="https://github.com/george-crossan/convoychat">
    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-crossan&layout=compact&langs_count=8&card_width=320" />
  </a>
- /*
- <a href="https://github.com/george-crossan/github-readme-stats">
+
+<!--  <a href="https://github.com/george-crossan/github-readme-stats">
    <img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=george-crossan" />
- </a>
- */
+ </a> -->
+
 
