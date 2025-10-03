@@ -5,8 +5,8 @@
 
  ## About me:
  I'm an aspiring software engineer from Dublin with a passion for Back-end and game development!
-- 🕹️ I’m currently working on a party game called "Sumo Strikers", coming to Steam hopefully next year!
-- 🌱 I’m currently learning full stack development with React
+- 🕹️ I recently worked on a party game called "Sumo Strikers", coming to itch.io soon!
+- 🌱 I’m currently in my final year of Comp Sci
 - 👨‍💻 Technologies I use:
   <p align="center">
   <a href="https://skillicons.dev">
