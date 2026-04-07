@@ -5,7 +5,7 @@
 
  ## About me:
  I'm an aspiring software engineer from Dublin with a passion for Back-end and game development!
-- 🕹️ I recently worked on a party game called "Sumo Strikers", coming to itch.io soon!
+- 🕹️ I recently worked on a party game called "Sumo Strikers"
 - 🌱 I’m currently in my final year of Comp Sci
 - 👨‍💻 Technologies I use:
   <p align="center">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Click here to watch the trailer for the game i'm developing!
+Click here to watch the trailer for Sumo Strikers!
 
 [<img src="https://github.com/george-crossan/George-Crossan/blob/main/sumo-strikers.png" width="600" height="330"
 />](https://youtu.be/03_p1_Hj9X0)
